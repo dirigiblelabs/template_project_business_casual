@@ -1,1 +1,8 @@
-{"guid":"template_project_business_casual","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_project_business_casual.git"}}
+{
+    "guid":"template_project_business_casual",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_project_business_casual.git"
+    }
+}
